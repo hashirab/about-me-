@@ -1,6 +1,16 @@
 
 # 💫 About Me:
-I'm currently working on a final-year independent research project on YOLO V8.<br>Anti-social guy<br>certified procrastinator 
+# About Me
+
+Hello and welcome to my GitHub space! I'm currently embarking on an exciting journey through my final-year research project, focusing on the innovative YOLO V8 technology. My work explores the cutting-edge realms of artificial intelligence and object detection systems, aiming to push forward the capabilities of real-time applications.
+
+Though I'm typically a reserved person, this trait fuels my deep focus and creative approaches to problem-solving in AI. Despite humorously claiming the title of a "certified procrastinator," I am deeply committed to my research and the potential impacts of my findings.
+
+## My Current Endeavor
+- **YOLO V8 Research Project**: This project is at the heart of my academic pursuit, where I'm dedicated to refining the efficiency and accuracy of the YOLO V8 model for object detection. My goal is to contribute to safer, more efficient technological solutions that can be implemented in real-world scenarios.
+
+Thank you for stopping by my repository! Feel free to explore my projects and reach out for collaborations or discussions.
+
 
 
 ## 🌐 Socials:
